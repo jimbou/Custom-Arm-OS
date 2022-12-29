@@ -1,4 +1,4 @@
-# Custom operating system for Armv8-A
+# Custom operating system for Armv8-A based on real time Unix OS
 
 
 <p align="center">
@@ -261,7 +261,7 @@ Created for the course Embedded System Design of the Ntua
 Collaborators of this project
 George Pagonis -- 03117030:
 Dimitrios Lampros -- 03117070
-Dimitrios Stamatios Bouras -- 03117072
+Dimitrios Stamatios Bouras -- 03117072 
 
 initialization...
 
